@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/envelop.png</file>
+        <file>img/location-icon.png</file>
+        <file>img/whatsapp icon2.png</file>
+    </qresource>
+</RCC>
