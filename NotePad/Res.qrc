@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/copy.png</file>
+        <file>Res/exit.png</file>
+        <file>Res/floppy-disk.png</file>
+        <file>Res/folder.png</file>
+        <file>Res/new-document.png</file>
+        <file>Res/paste.png</file>
+        <file>Res/save-file.png</file>
+        <file>Res/scissors.png</file>
+        <file>Res/back-arrow.png</file>
+        <file>Res/redo.png</file>
+    </qresource>
+</RCC>
